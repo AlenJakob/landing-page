@@ -458,7 +458,7 @@ template {
   /*border:2px solid red;*/
   z-index: 10;
   left:10px;
-  top:115px;
+  top:15px;
   background:white;
   box-shadow:0 0 3px darkred;
   border-radius:3px;
@@ -508,5 +508,5 @@ template {
 }
 .tgl-btn{
 /* addingclass */
-  transform:translatey(-105px);
+  transform:translatey(-5px);
 }
