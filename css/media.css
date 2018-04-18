@@ -1,8 +1,28 @@
 @media (max-width:960px){
-#nav-links{
-    flex-wrap:wrap;
-    height:auto;
+   
+    
+    
+    #nav-icon{
+    flex-direction: column;
 }
+    #nav-icon li{
+        margin:10px;
+    }
+#nav-links{
+    flex-wrap:wrap;    
+    height:auto;
+    padding:10px 5px;
+}
+    #nav-links li {
+        width:100%!important;
+        margin:0!important;
+    }
+    
+  
+    #navbar ul{
+        flex-direction:column;
+    }
+
     .change{
 
         height:auto;
