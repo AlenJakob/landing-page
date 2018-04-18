@@ -1,6 +1,5 @@
 
-
-
+alert("file")
 $(window).scroll(function() {
     var scroll = $(window).scrollTop();
 
