@@ -514,3 +514,7 @@ template {
 /* addingclass */
   transform:translatey(-5px);
 }
+
+.ct{
+left:50%!important;
+}
