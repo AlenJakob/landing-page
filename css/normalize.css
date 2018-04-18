@@ -503,8 +503,12 @@ template {
 }
 .menu-goes-up{
 
-  transform:translateX(1500px);
-
+  transform: translatey(-500px);
+    animation:goes 1s linear 1s;
+}
+@keyframes goes {
+   0%{}
+   100%{display: none!important;}
 }
 .tgl-btn{
 /* addingclass */
