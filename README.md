@@ -1,2 +1,4 @@
 # landing-page-v1
-landing page with polygon img
+
+- Description
+ - An landing page gallery used of polygon images.
