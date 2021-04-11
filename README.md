@@ -10,3 +10,7 @@
 - JavaScript
 - jQuery
 ```
+
+### View
+
+![project photo](/landing_pagepolygon.png)
