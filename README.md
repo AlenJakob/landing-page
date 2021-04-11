@@ -13,4 +13,4 @@
 
 ### View
 
-![project photo](/landing_pagepolygon.png)
+![project photo](/landing_pagepolygon1.png)
